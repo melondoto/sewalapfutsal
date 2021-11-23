@@ -1,0 +1,97 @@
+[
+    {
+    "sewaID" : "SW001",
+    "tglSewa" : "2020-10-03",
+    "durasiSewa" : 1,
+    "waktuMulaiSewa" : "17:00:00",
+    "metodeBayar" : "Cash",
+    "pelanggan" : {
+        "pelangganID" : "PG01",
+        "namaPelanggan" : "Alan Satria Julius Putra Hermawan",
+        "noTelpPelanggan" : "08156712389",
+        "alamatPelanggan" : "Margorejo RT 01 / RW 10, Gilingan, Banjarsari, Surakarta"
+    },
+    "lapangan" : {
+        "lapanganID" : "LAP1",
+        "noLapangan" : 1,
+        "deskripsiLapangan" : "Lantai"
+    },
+    "buktiBayar" : "Lunas"
+    },
+    {
+    "sewaID" : "SW002",
+    "tglSewa" : "2020-10-05",
+    "durasiSewa" : 2,
+    "waktuMulaiSewa" : "09:00:00",
+    "metodeBayar" : "Cash",
+    "pelanggan" : {
+        "pelangganID" : "PG02",
+        "namaPelanggan" : "Jevon Juwono",
+        "noTelpPelanggan" : "08123456789",
+        "alamatPelanggan" : "Gading Permai AG-10 RT 03 / RW 09, Grogol, Grogol, Sukoharjo"
+    },
+    "lapangan" : {
+        "lapanganID" : "LAP2",
+        "noLapangan" : 2,
+        "deskripsiLapangan" : "Lantai"
+    },
+    "buktiBayar" : "Lunas"
+    },
+    {
+    "sewaID" : "SW003",
+    "tglSewa" : "2020-10-08",
+    "durasiSewa" : 2,
+    "waktuMulaiSewa" : "17:00:00",
+    "metodeBayar" : "Cash",
+    "pelanggan" : {
+        "pelangganID" : "PG03",
+        "namaPelanggan" : "Nurendra Febriyanto",
+        "noTelpPelanggan" : "08987654321",
+        "alamatPelanggan" : "Kembang RT 07 / RW 02, Keputran, Kemalang, Klaten"
+    },
+    "lapangan" : {
+        "lapanganID" : "LAP2",
+        "noLapangan" : 2,
+        "deskripsiLapangan" : "Lantai"
+    },
+    "buktiBayar" : "DP"
+    },
+    {
+    "sewaID" : "SW004",
+    "tglSewa" : "2020-10-10",
+    "durasiSewa" : 3,
+    "waktuMulaiSewa" : "16:00:00",
+    "metodeBayar" : "Cash",
+    "pelanggan" : {
+        "pelangganID" : "PG04",
+        "namaPelanggan" : "Samuel Christian Wibisono",
+        "noTelpPelanggan" : "08519283746",
+        "alamatPelanggan" : "Ngasinan RT 05 / RW 04, Kwarasan, Grogol, Sukoharjo"
+    },
+    "lapangan" : {
+        "lapanganID" : "LAP1",
+        "noLapangan" : 1,
+        "deskripsiLapangan" : "Lantai"
+    },
+    "buktiBayar" : "Lunas"
+    },
+    {
+    "sewaID" : "SW005",
+    "tglSewa" : "2020-10-15",
+    "durasiSewa" : 2,
+    "waktuMulaiSewa" : "08:00:00",
+    "metodeBayar" : "Cash",
+    "pelanggan" : {
+        "pelangganID" : "PG05",
+        "namaPelanggan" : "Gilbert Shilo Tanjaya",
+        "noTelpPelanggan" : "08192837465",
+        "alamatPelanggan" : "Banaran RT 04 / RW 07, Ngringi, Jaten, Karanganyar"
+    },
+    "lapangan" : {
+        "lapanganID" : "LAP1",
+        "noLapangan" : 1,
+        "deskripsiLapangan" : "Lantai"
+    },
+    "buktiBayar" : "DP"
+    }
+]
